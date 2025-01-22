@@ -116,7 +116,7 @@ Scheduling or rescheduling a visa appointment can often be a stressful and time-
 
 3. **Create and configure the config file:**
    ```bash
-   cp config_example.json config.json
+   cp config.json
    ```
 
 4. **Run the tool:**

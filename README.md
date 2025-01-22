@@ -132,8 +132,8 @@ We aim to release the project at **50 stars**! If you find this project helpful,
 ---
 
 ## 📧 Contact
-- **Developer:** [Your Name](https://github.com/CanxPrometheus)
-- **Email:** your-email@example.com
+- **Developer:** [Mert Can Özçelik](https://github.com/CanxPrometheus)
+- **Email:** mrtcnozvlk2@gmail.com
 
 ---
 

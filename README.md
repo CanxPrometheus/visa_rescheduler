@@ -3,7 +3,7 @@
 
 **Visa Rescheduler**, vize randevularınızı kolayca yeniden planlamanıza yardımcı olan bir otomasyon aracıdır. Bu araç, size en uygun randevu tarihlerini bulur ve süreci hızlı bir şekilde tamamlamanıza olanak tanır.
 
-![GitHub Stars](https://img.shields.io/github/stars/username/visa_rescheduler?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/CanxPrometheus/visa_rescheduler?style=social)
 
 ---
 
@@ -65,3 +65,9 @@ Projeyi 50 yıldız ile paylaşmayı hedefliyoruz! Eğer bu proje işinize yarar
 ---
 
 **Unutmayın:** Bu araç yalnızca kullanıcıya kolaylık sağlamak amacıyla geliştirilmiştir. Kullanıcılar, tüm yasal sorumluluğu kendileri üstlenir.
+
+![YENİDEN PLANLANAN RANDEVU](https://github.com/user-attachments/assets/3a5294ca-9e2e-4b44-b62b-ba352b18befd)
+
+
+
+

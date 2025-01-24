@@ -1,0 +1,41 @@
+{
+    "telegram": {
+      "bot_token": "8170605467:AAHqMpUzQWZHBrx90gfUL92FKqfSvWBKxWg",
+      "chat_id": "-4665920048"
+    },
+    "global_settings": {
+      "schedule_check_limit_hours": 24,
+      "refresh_interval_seconds": 1500,
+      "refresh_sleep": 30,
+      "wait_if_server_error_hours": 5,
+      "wait_if_single_facility_error_minutes": 15,
+      "retry_time_bounds": [7, 20],
+      "out_of_range_wait_bounds": [7, 40]
+    },
+    "users": [
+      {
+        "username": "kboztepe77@gmail.com",
+        "password": "144100Ku",
+        "schedule_id": "32527735",
+        "istaketed": false,  
+        "lastfour": true,
+        "scan_mode": "both",
+        "date_ranges": {
+          "125": ["2025-01-01", "2025-02-01"], 
+          "124": ["2025-01-15", "2025-02-01"]
+        }
+      },
+      {
+        "username": "example2@mail.com",
+        "password": "SecretPass2",
+        "schedule_id": "99999999",
+        "istaketed": false,
+        "lastfour": false,
+        "scan_mode": "both",
+        "date_ranges": {
+          "125": ["2025-03-01", "2025-04-01"],
+          "124": ["2025-03-15", "2025-05-01"]
+        }
+      }
+    ]
+  }
